@@ -61,4 +61,4 @@ Author One, Author Two, Author Three (2023). A Data-Driven Framework for Driving
 The code and data provided in this repository are licensed under the MIT License. See the [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # Contact
-If you have any questions or feedback, please contact at: [author one@gmail.com](mailto:author one@gmail.com)
+If you have any questions or feedback, please contact at: [authorone@gmail.com](mailto:authorone@gmail.com)
